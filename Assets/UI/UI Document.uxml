@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="UI Instructions" src="project://database/Assets/UI/UI%20Instructions.uxml?fileID=9197481963319205126&amp;guid=366403c85f926406996e098159ffb917&amp;type=3#UI Instructions" />
+    <Style src="project://database/Assets/UI/main.uss?fileID=7433441132597879392&amp;guid=b1e83402e4a914a27bf7cb8ef4f2c26b&amp;type=3#main" />
+    <ui:VisualElement name="splashscreen" class="container" style="background-image: url(&apos;project://database/Assets/UI/ressources/bg%20image.jpg?fileID=2800000&amp;guid=e93736a70eabf4b3786aeaa0d731c37a&amp;type=3#bg image&apos;);">
+        <ui:VisualElement name="logo" class="logo" style="background-image: url(&apos;project://database/Assets/UI/ressources/logo%20pn-01.png?fileID=2800000&amp;guid=3184e791b64134566abfd6c02760dd84&amp;type=3#logo pn-01&apos;);">
+            <ui:VisualElement name="logoImage" class="logoImage" />
+        </ui:VisualElement>
+        <ui:VisualElement name="logoMerkle" class="logoMerkle" style="background-image: url(&apos;project://database/Assets/UI/ressources/logo%20pn-01.png?fileID=2800000&amp;guid=3184e791b64134566abfd6c02760dd84&amp;type=3#logo pn-01&apos;);">
+            <ui:VisualElement name="merkleLogoImage" class="merkleLogoImage" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:Instance template="UI Instructions" name="UI Instructions" />
+</ui:UXML>
