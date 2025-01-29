@@ -21,3 +21,7 @@ To run this project, you'll need:
 
 Set sail and see how much treasure you can claim before time runs out! 🏴‍☠️✨  
 
+Here are the screenshots of gameplay
+![IMG_3451](https://github.com/user-attachments/assets/c978df55-5bf8-410e-a344-99805c5d0254)
+![IMG_3450](https://github.com/user-attachments/assets/81bad85c-de5a-4a01-a8a2-b75bf8df404a)
+![IMG_3449](https://github.com/user-attachments/assets/90fefce4-5753-4e3e-9d8f-416b2e205767)
